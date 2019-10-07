@@ -8,7 +8,7 @@ You must modify the `config.ini.template` file to include an API key generated f
 
 # To Do
 
-- [ ] Allow for selection of assets
+- [x] Allow for selection of assets
 - [ ] Implement API for BambooHR
 - [ ] Remove print debug statements
 
