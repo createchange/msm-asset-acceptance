@@ -1,0 +1,5 @@
+pprint
+requests
+json
+fpdf
+configparser
